@@ -8,12 +8,9 @@ author:
 description: >
   My personal blog/website.
 
-theme: minima
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-remote-theme
 
 remote_theme: jekyll/minima
 
