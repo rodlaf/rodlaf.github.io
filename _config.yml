@@ -3,16 +3,12 @@ author:
   name: Rodney Lafuente Mercado
   email: lafuentemercado@college.harvard.edu
 
-# The `>` after `description:` means to ignore line-breaks until next key.
-# If you want to omit the line-break after the end of text, use `>-` instead.
-description: >
-  My personal blog/website.
+description: My personal blog/website.
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-theme: minima
 remote_theme: jekyll/minima
 
 minima:
