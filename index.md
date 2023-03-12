@@ -17,5 +17,3 @@ commercial applications of neural networks.
 I've previously interned in the cryptography division of Amazon Web Services, where I made changes
 to a code signing API. More recently, in the Silver Lab at Harvard Medical School, I used ensemble
 methods to count and measure molecular structures in cells. 
-
-I can be reached at lafuentemercado [at] college [dot] harvard [dot] edu.
