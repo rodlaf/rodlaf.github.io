@@ -4,6 +4,9 @@ title: About Me
 permalink: /about/
 ---
 
+![A picture of me](/assets/mustache.jpg){: width="250" }  
+<br/>
+
 Hello! I'm Rodney. I've recently earned a Bachelor's from Harvard University, where I studied
 Applied Mathematics and Computer Science. I was born and lived partly in La Paz, Bolivia, while also
 having grown up extensively in the American Midwest and South during separate periods in my life. 

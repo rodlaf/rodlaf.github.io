@@ -24,4 +24,4 @@ known openness of anything published to the internet.
 My content will not be focused entirely on things I build. I will write about things that may or may not
 relate to software and technology, such as the political atmosphere in my home country of Bolivia.
 My hope is that, with time, I will improve my writing ability and provide valuable perspectives
-on some things I think about.
+on some things I like to think about.
