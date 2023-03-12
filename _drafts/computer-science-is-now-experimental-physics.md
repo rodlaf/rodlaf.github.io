@@ -13,6 +13,25 @@ Ideas:
 
 - Talk about Oppenheimer and the Manhattan Project. 
 
+- Introduction 
+
+    - In high school, I aspired to do CS because I imagined it wouldn’t be like modern day physics
+    when it came to funding. This has changed Computer Science is now like Experimental Physics
+
+    - Computer Science research in Artificial Intelligence will now require extreme sources of money
+
+    - Research is like cooking. No construction from first principles but rather SGD on complex
+    contraptions built on intuition and flimsy assumptions. This approach is very fruitful 
+
+    - Research papers will now have many more authors than they used to have
+
+    - Research papers will start to come out of non-Academic institutions more than ever for the
+    next 20 years, before universities begin to roll out enormous amounts of funding for such
+    research experiments 
+
+    - Big Tech has the deepest pockets that are willing to be emptied for these pursuits
+
+
 ***
 
 

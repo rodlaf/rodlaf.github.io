@@ -3,7 +3,8 @@ layout: page
 title: About Me
 permalink: /
 ---
-![A picture of me](/assets/mustache.jpg){: width="250" }  
+
+![A picture of me](/assets/mustache.jpg){: width="250" }
 <br/>
 
 Hello! I'm Rodney. I've recently earned a Bachelor's from Harvard University, where I studied

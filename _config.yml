@@ -1,12 +1,6 @@
 title: Rodney Lafuente Mercado
-# author:
-#   name: Rodney Lafuente Mercado
-#   email: lafuentemercado [at] college [dot] harvard [dot] edu
-
-# description: My personal website.
 
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
 
 remote_theme: jekyll/minima
