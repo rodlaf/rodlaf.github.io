@@ -7,7 +7,7 @@ permalink: /
 <br/>
 
 Hello! I'm Rodney. I've recently earned a Bachelor's from Harvard University, where I studied
-Applied Mathematics and Computer Science. I was born and lived partly in La Paz, Bolivia, while also
+Applied Mathematics and Computer Science. I was born and raised in La Paz, Bolivia, while also
 having grown up extensively in the American Midwest and South during separate periods in my life. 
 
 I'm on a full-time job hunt in tech (I know) and I aspire to begin a PhD in machine learning within
