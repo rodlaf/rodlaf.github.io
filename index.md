@@ -8,6 +8,11 @@ permalink: /
 
 *I no longer sport this mustache.*
 
+* Email: lafuentemercado@college.harvard.edu
+* Github: [rodlaf](https://github.com/rodlaf/)
+* Linkedin: [lafuente-mercado](https://linkedin.com/in/lafuente-mercado)
+* Resume: [link](/resume/)
+
 Hello! I'm Rodney. I've recently earned a Bachelor's from Harvard University, where I studied
 Applied Mathematics and Computer Science. I was born and raised in La Paz, Bolivia, while also
 having grown up extensively in the American Midwest and South during separate periods in my life. 
@@ -19,5 +24,3 @@ commercial applications of neural networks.
 I've previously interned in the cryptography division of Amazon Web Services, where I made changes
 to a code signing API. More recently, in the Silver Lab at Harvard Medical School, I used ensemble
 methods to count and measure molecular structures in cells. 
-
-I can be reached at lafuentemercado [at] college [dot] harvard [dot] edu.
