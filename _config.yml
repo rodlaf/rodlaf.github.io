@@ -12,6 +12,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+theme: minima
 remote_theme: jekyll/minima
 
 minima:
