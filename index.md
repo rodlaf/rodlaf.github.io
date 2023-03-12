@@ -5,7 +5,8 @@ permalink: /
 ---
 
 ![A picture of me](/assets/mustache.jpg){: width="250" }
-<br/>
+
+*I no longer sport this mustache.*
 
 Hello! I'm Rodney. I've recently earned a Bachelor's from Harvard University, where I studied
 Applied Mathematics and Computer Science. I was born and raised in La Paz, Bolivia, while also
