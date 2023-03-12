@@ -1,6 +1,21 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: page
+title: About Me
+permalink: /
 ---
+![A picture of me](/assets/mustache.jpg){: width="250" }  
+<br/>
+
+Hello! I'm Rodney. I've recently earned a Bachelor's from Harvard University, where I studied
+Applied Mathematics and Computer Science. I was born and lived partly in La Paz, Bolivia, while also
+having grown up extensively in the American Midwest and South during separate periods in my life. 
+
+I'm on a full-time job hunt in tech (I know) and I aspire to begin a PhD in machine learning within
+the next three years or so. I'm interested in both the underlying science and undiscovered
+commercial applications of neural networks.
+
+I've previously interned in the cryptography division of Amazon Web Services, where I made changes
+to a code signing API. More recently, in the Silver Lab at Harvard Medical School, I used ensemble
+methods to count and measure molecular structures in cells. 
+
+I can be reached at lafuentemercado [at] college [dot] harvard [dot] edu.
