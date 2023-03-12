@@ -16,5 +16,6 @@ minima:
 header_pages:
   - index.md
   - posts.md
+  - resume.md
 
 show_excerpts: true
