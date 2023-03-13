@@ -6,8 +6,6 @@ permalink: /
 
 ![A picture of me](/assets/mustache.jpg){: width="250" }
 
-*I no longer sport this mustache.*
-
 * Email: lafuentemercado@college.harvard.edu
 * Github: [rodlaf](https://github.com/rodlaf/)
 * Linkedin: [lafuente-mercado](https://linkedin.com/in/lafuente-mercado)
