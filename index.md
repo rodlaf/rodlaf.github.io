@@ -15,7 +15,7 @@ Hello! I'm Rodney. I've recently earned a Bachelor's from Harvard University, wh
 Applied Mathematics and Computer Science. I was born and raised in La Paz, Bolivia, while also
 having grown up extensively in the American Midwest and South during separate periods in my life. 
 
-I'm on a full-time job hunt in tech (I know) and I aspire to begin a PhD in machine learning within
+I'm on a full-time job hunt in tech and I aspire to begin a PhD in machine learning within
 the next three years or so. I'm interested in both the underlying science and undiscovered
 commercial applications of neural networks.
 
