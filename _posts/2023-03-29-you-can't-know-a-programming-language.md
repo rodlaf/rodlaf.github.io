@@ -9,7 +9,7 @@ I see a lot of job postings that, if they aren't putting a programming language 
 title of a position they are hiring for, will put the name of the language as an important
 requirement somewhere in the job description. I believe this sort of practice is guided by a
 misconstrued perception of what the relationship is between people and their ability to develop
-software. There should be no "Java Developer" or "React Developer;"there should be only "Software
+software. There should be no "Java Developer" or "React Developer;" there should be only "Software
 Developer," regardless of the languages a person will be interacting with in a job. People don't
 know programming languages to the extent they should be labeled with them. It may even make more
 sense to say that people can't "know" programming languages to begin with.
