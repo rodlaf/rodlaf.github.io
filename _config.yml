@@ -15,6 +15,9 @@ minima:
     - { platform: github,         user_url: "https://github.com/rodlaf" }
     - { platform: linkedin,       user_url: "https://www.linkedin.com/in/lafuente-mercado" }
 
+  skin:
+    dark
+
 header_pages:
   - index.md
   - resume.md
