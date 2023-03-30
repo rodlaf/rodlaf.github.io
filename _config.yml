@@ -4,7 +4,6 @@ author:
   name: Rodney Lafuente Mercado
   email: lafuentemercado@college.harvard.edu
 
-
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
@@ -16,13 +15,9 @@ minima:
     - { platform: github,         user_url: "https://github.com/rodlaf" }
     - { platform: linkedin,       user_url: "https://www.linkedin.com/in/lafuente-mercado" }
 
-  # skin:
-  #   solarized
-
 header_pages:
   - index.md
   - resume.md
   - blog.md
-
 
 show_excerpts: true
