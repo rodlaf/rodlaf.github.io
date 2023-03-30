@@ -1,6 +1,12 @@
 title: Rodney Lafuente Mercado
 
+author:
+  name: Rodney Lafuente Mercado
+  email: lafuentemercado@college.harvard.edu
+
+
 plugins:
+  - jekyll-feed
   - jekyll-seo-tag
 
 remote_theme: jekyll/minima
