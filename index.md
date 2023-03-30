@@ -7,7 +7,7 @@ permalink: /
 ![A picture of me](/assets/mustache.jpg){: width="250" }
 
 * Github: [rodlaf](https://github.com/rodlaf/)
-* Linkedin: [lafuente-mercado](https://linkedin.com/in/lafuente-mercado)
+* Linkedin: [link](https://linkedin.com/in/lafuente-mercado)
 * Resume: [link](/resume/)
 
 Hello! I'm Rodney. I've recently earned a Bachelor's from Harvard University, where I studied
