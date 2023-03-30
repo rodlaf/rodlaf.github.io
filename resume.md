@@ -10,7 +10,7 @@ Longer PDF version found [here](/assets/resume.pdf).
 ## Summary
 
 Recent grad seeking a role in technology, ideally with the opportunity to work on research in
-machine learning. I will apply to doctoral programs within the next three years.
+machine learning.
 
 
 ## Skills
