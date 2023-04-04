@@ -25,7 +25,6 @@ machine learning.
 
 *March 2023, Cambridge, MA*
 
-* 3.61/4.00 GPA.
 * Concentration in Applied Mathematics-Computer Science.
 * Coursework focused on pure and applied mathematical foundations of machine learning.
 
@@ -37,7 +36,7 @@ machine learning.
 *January 2022-May 2022, Cambridge, MA*
 
 * Performed analysis of puncta (dense spots) in images of SARS-CoV-2 nucleocapsids using ensemble
-  methods.
+  methods in the Silver Lab at Harvard Medical School.
 * Led instructive meetings in the basics of software development and machine learning to
   non-technical staff.
 
@@ -57,7 +56,7 @@ machine learning.
 
 * Designed and implemented changes to the AWS Signer API, Amazon’ code signing (cryptographic
   verification of code) service. 
-* Worked primarily with Java in a CI/CD environment, on a product hosted entirely on other AWS
+* Worked primarily with Java in a CI/CD environment on a product hosted entirely on other AWS
   services. 
 
 
