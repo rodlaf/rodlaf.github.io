@@ -26,7 +26,7 @@ machine learning.
 *March 2023, Cambridge, MA*
 
 * Concentration in Applied Mathematics-Computer Science.
-* Coursework focused on pure and applied mathematical foundations of machine learning.
+* Coursework focused on the pure and applied mathematical foundations of machine learning.
 
 
 ## Experience
