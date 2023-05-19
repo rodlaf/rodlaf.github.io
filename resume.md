@@ -6,18 +6,10 @@ permalink: /resume/
 
 Longer PDF version found [here](/assets/resume.pdf).
 
-
-## Summary
-
-Recent grad seeking a role in technology, ideally with the opportunity to work on research in
-machine learning.
-
-
 ## Skills
 
 * **Software**: C, C++, Python, Java, Golang, JavaScript/TypeScript.
 * **Machine Learning**: PyTorch, Tensorflow (Keras), Numpy/Pandas/Matplotlib/etc.
-
 
 ## Education
 
@@ -27,7 +19,6 @@ machine learning.
 
 * Concentration in Applied Mathematics-Computer Science.
 * Coursework focused on the pure and applied mathematical foundations of machine learning.
-
 
 ## Experience
 
