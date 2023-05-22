@@ -8,7 +8,7 @@ Longer PDF version found [here](/assets/resume.pdf).
 
 ## Skills
 
-* **Software**: C, C++, Python, Java, Golang, JavaScript/TypeScript.
+* **Software**: C, C++, CUDA C++, Python, Java, Golang, JavaScript/TypeScript.
 * **Machine Learning**: PyTorch, Tensorflow (Keras), Numpy/Pandas/Matplotlib/etc.
 
 ## Education
