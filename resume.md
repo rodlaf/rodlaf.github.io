@@ -22,6 +22,12 @@ Longer PDF version found [here](/assets/resume.pdf).
 
 ## Experience
 
+#### **Assistant Staff**, MIT Lincoln Laboratory
+
+*June 2023-Present, Lexington, MA*
+
+* Working in the AI Technology Group
+
 #### **Undergraduate Researcher**, Harvard Medical School
 
 *January 2022-May 2022, Cambridge, MA*
