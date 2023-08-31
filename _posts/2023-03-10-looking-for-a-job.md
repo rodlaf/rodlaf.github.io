@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Looking for a Job"
+title:  "Looking For A Job"
 date:   2023-03-10
 categories: jekyll update
 ---
