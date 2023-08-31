@@ -1,10 +1,10 @@
 ---
-layout: base
+layout: no-footer
 title: Home
 permalink: /
 ---
 
-![A picture of me](/assets/mustache.jpg){: width="200" }
+![A picture of me](/assets/mustache.jpg){: width="230" }
 
 * Github: [rodlaf](https://github.com/rodlaf/)
 * Linkedin: [link](https://linkedin.com/in/lafuente-mercado)
